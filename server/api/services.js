@@ -80,16 +80,16 @@ export default defineEventHandler(() => {
       image: null,
     },
 
-     {
-      id: 8,
-      title: 'Flutter',
-      description: {
-        en: "Beginner in Flutter for cross platform mobile application.",
-        id_ID: 'Dalam bidang Keamanan Siber, saya menggunakan Python, SQL, Java/JavaScript, C++, dll. Tapi Python adalah bahasa yang lebih sering saya gunakan.',
-      },
-      icon: 'devicon:flutter',
-      image: null,
-    },
+    //  {
+    //   id: 8,
+    //   title: 'Flutter',
+    //   description: {
+    //     en: "Beginner in Flutter for cross platform mobile application.",
+    //     id_ID: 'Dalam bidang Keamanan Siber, saya menggunakan Python, SQL, Java/JavaScript, C++, dll. Tapi Python adalah bahasa yang lebih sering saya gunakan.',
+    //   },
+    //   icon: 'devicon:flutter',
+    //   image: null,
+    // },
      
      {
       id: 8,
